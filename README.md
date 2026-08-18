@@ -6,15 +6,15 @@ An interactive Power BI dashboard designed to analyze retail revenue, profitabil
 
 ### Executive Overview
 
-![Executive Overview](executive-overview.png)
+![Executive Overview](executive-overview.png.png)
 
 ### Profitability Deep Dive
 
-![Profitability Deep Dive](profitability-deep-dive.png)
+![Profitability Deep Dive](profitability-deep-dive.png.png)
 
 ### Management Recommendations
 
-![Management Recommendations](management-recommendations.png)
+![Management Recommendations](management-recommendations.png.png)
 
 ---
 
